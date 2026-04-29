@@ -118,11 +118,3 @@ All constructs exceed the acceptable threshold of α ≥ 0.70.
 
 **Guide:** Prof. Haresh Oza, Associate Professor, Ganpat University – VMPCMS
 
----
-
-## 📁 Repository Contents
-## 🔗 Related Work
-
-- [AI Adoption & Productivity Impact Dashboard](https://github.com/shreyans-20) — Power BI dashboard extending these findings to a cross-industry dataset
-- [City-Level Hotel Insight Dashboard](https://github.com/shreyans-20/City-Level-Hotel-Insight-Dashboard) — Power BI · TripTrip internship
-- [Aadhya Patel — GitHub](https://github.com/aadhyadpatel47) — Co-author & collaborator
